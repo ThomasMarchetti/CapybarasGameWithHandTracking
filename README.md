@@ -6,6 +6,8 @@ You are a Capybara with a water hose, and you have to extinguish the max number 
 
 And you control the capybara just with the power of your hands! without a keyboard, mouse or controller.
 
+It was made with the intention to represent what Pantanal in Mato Grosso do Sul (Brazil) faces today, and aware people of it.
+
 <img width="1917" height="1077" alt="Captura de tela 2025-09-05 211625" src="https://github.com/user-attachments/assets/7acef941-819f-432e-965e-6bb49297faa4" />
 
 _Gameplay screenshot_
